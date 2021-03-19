@@ -8,6 +8,9 @@ BrianBellanger 3-18-2021@1900:
 -Added id to search-engine-optimization link
 -Consolidated Benefits CSS
 -Added Titles to images
+-Changed Footer from .class to standard
+-Changed Header from .class to standard
+-I tried to consolidate more and it trashed the page
 
 
 
