@@ -1,13 +1,16 @@
 # HW1-CodeRefactor
-
 Boot Camp Homework #1
 
-BrianBellanger 3-18-2021@1900
+BrianBellanger 3-18-2021@1900:
 -Added Reset.css file to ./assets/css/ and linked before style.css on index.html
 -Changed Title tag from Website to Horiseon
 -Combined duplicate classes for h2
 -Added id to search-engine-optimization link
--
+-Consolidated Benefits CSS
+-Added Titles to images
+
+
+
 
 
 
